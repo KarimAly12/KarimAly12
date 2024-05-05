@@ -33,17 +33,7 @@
 ### Python projects
 [Pathfinding Algorihtms Visualiser](https://github.com/KarimAly12/Pathfinding_Visualiser)
 
-
-### [Coding Questions](https://github.com/KarimAly12/CodingQustions/tree/main)
-|   | Problem Name     | Website    | Solution                                                                                                                                                             |
-| - | ---------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ⭐ | Two Number Sum   | AlgoExpert | [https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/TwoNumberSum](https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/TwoNumberSum)     |
-| ⭐ | Three Number Sum | AlgoExpert | [https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/ThreeNumberSum](https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/ThreeNumberSum) |
-| ⭐ | Sorted Squared Array | AlgoeExpert | https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/SortedSquaredArray |
-| ⭐ | Tournament Winner | AlgoExpert | https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/TournamentWinner |
-| ⭐ | Transpose Matrix | AlgoExpert | https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/TransposeMatrix |
-| ⭐ | Find Closest value in BST | AlgoExpert | https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/FindClosestValuseInBST |
-
+[Coding Questions](https://github.com/KarimAly12/CodingQustions/tree/main)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
