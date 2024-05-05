@@ -24,3 +24,7 @@
 
 
 ### Coding Questions
+|   | Problem Name     | Website    | Solution                                                                                                                                                             |
+| - | ---------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ⭐ | Two Number Sum   | AlgoExpert | [https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/TwoNumberSum](https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/TwoNumberSum)     |
+| ⭐ | Three Number Sum | AlgoExpert | [https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/ThreeNumberSum](https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/ThreeNumberSum) |
