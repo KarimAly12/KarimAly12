@@ -34,5 +34,5 @@ I am passionate about programming, particularly in software development and nati
 | ⭐ | Transpose Matrix | AlgoeExpert | https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/TransposeMatrix |
 
 
-### IoT project
+### IoT projects
 [Smart Planting System](https://github.com/KarimAly12/SmartPlantingSystem)
