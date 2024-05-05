@@ -1,11 +1,10 @@
 # 💻 Karim Aly
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 <p>I am passionate about programming, particularly in software development and native Android app development. I thoroughly enjoy solving coding questions and challenges.</p>
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working on [Device Tracking](https://github.com/KarimAly12/DeviceTracking)
-
--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <p align="left">
