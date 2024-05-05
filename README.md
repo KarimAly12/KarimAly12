@@ -1,6 +1,6 @@
 # Karim Aly
 
-<h3 align="left">Connect with me: karimosamakk@gmail.com</h3>
+<p align="left">Connect with me: karimosamakk@gmail.com</p>
 <p align="left">
 </p>
 
