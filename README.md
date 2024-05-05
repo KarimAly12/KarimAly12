@@ -10,5 +10,4 @@
 
 
 ### Android Pojects
-<p align="left"> Android Algotihms Visualiser <a href="[https://github.com/KarimAly12/AndroidAlgoVisulaiser](https://github.com/KarimAly12/AndroidAlgoVisulaiser)" target="_blank" rel="noreferrer"/>  </p>
-
+[https://github.com/KarimAly12/AndroidAlgoVisulaiser](https://github.com/KarimAly12/AndroidAlgoVisulaiser)
