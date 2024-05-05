@@ -23,7 +23,7 @@ Self-motivated and result-oriented computer science graduate student with good e
 [Pathfinding Algorihtms Visualiser](https://github.com/KarimAly12/Pathfinding_Visualiser)
 
 
-### Coding Questions
+### [Coding Questions](https://github.com/KarimAly12/CodingQustions/tree/main)
 |   | Problem Name     | Website    | Solution                                                                                                                                                             |
 | - | ---------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ⭐ | Two Number Sum   | AlgoExpert | [https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/TwoNumberSum](https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/TwoNumberSum)     |
