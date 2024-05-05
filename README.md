@@ -1,7 +1,8 @@
 # Karim Aly
-Self-motivated and result-oriented computer science graduate student with good experience in programming languages, databases, cloud technology, data analysis, software design and analysis. I am a team player and a problem solver with a passion for programming and technology. ![image]
+I am passionate about programming, particularly in software development and native Android app development. I thoroughly enjoy solving coding questions and challenges.
 
 - 🔭 I’m currently working on [Device Tracking](https://github.com/KarimAly12/DeviceTracking)
+
 
 <p align="left">
 </p>
