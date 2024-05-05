@@ -33,7 +33,7 @@
 ### Python projects
 [Pathfinding Algorihtms Visualiser](https://github.com/KarimAly12/Pathfinding_Visualiser)
 
-[Coding Questions](https://github.com/KarimAly12/CodingQustions/tree/main)
+[Coding Questions](https://github.com/KarimAly12/CodingQuestions/tree/main)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
