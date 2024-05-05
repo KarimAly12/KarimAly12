@@ -19,7 +19,7 @@
 
 ## Pojects
 
-### Android Pojects
+### Android projects
 [Android Algorithm Visualiser](https://github.com/KarimAly12/AndroidAlgoVisulaiser)
 
 [Quran Application](https://github.com/KarimAly12/Quran_App)
