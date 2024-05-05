@@ -10,4 +10,4 @@
 
 
 ### Android Pojects
-[https://github.com/KarimAly12/AndroidAlgoVisulaiser](https://github.com/KarimAly12/AndroidAlgoVisulaiser)
+[Android Algorithm Visualiser](https://github.com/KarimAly12/AndroidAlgoVisulaiser)
