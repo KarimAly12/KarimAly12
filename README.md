@@ -30,5 +30,5 @@ I am passionate about programming, particularly in software development and nati
 | ⭐ | Two Number Sum   | AlgoExpert | [https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/TwoNumberSum](https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/TwoNumberSum)     |
 | ⭐ | Three Number Sum | AlgoExpert | [https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/ThreeNumberSum](https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/ThreeNumberSum) |
 | ⭐ | Sorted Squared Array | AlgoeExpert | https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/SortedSquaredArray |
-| ⭐ | Tournament Winner | AlgoeExpert | [https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/SortedSquaredArray](https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/TournamentWinner) |
+| ⭐ | Tournament Winner | AlgoeExpert | https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/TournamentWinner |
 
