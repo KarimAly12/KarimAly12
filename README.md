@@ -1,6 +1,6 @@
 # Karim Aly
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: karimosamakk@gmail.com</h3>
 <p align="left">
 </p>
 
@@ -9,5 +9,6 @@
 
 
 
-## Android Pojects
+### Android Pojects
+<p align="left"> <a href="[https://developer.android.com](https://github.com/KarimAly12/AndroidAlgoVisulaiser)" target="_blank" rel="noreferrer"> </a>
 
