@@ -26,6 +26,9 @@
 
 [Device Tracking](https://github.com/KarimAly12/DeviceTracking)
 
+### IoT projects
+[Smart Planting System](https://github.com/KarimAly12/SmartPlantingSystem
+
 
 ### Python projects
 [Pathfinding Algorihtms Visualiser](https://github.com/KarimAly12/Pathfinding_Visualiser)
@@ -37,12 +40,10 @@
 | ⭐ | Two Number Sum   | AlgoExpert | [https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/TwoNumberSum](https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/TwoNumberSum)     |
 | ⭐ | Three Number Sum | AlgoExpert | [https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/ThreeNumberSum](https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/ThreeNumberSum) |
 | ⭐ | Sorted Squared Array | AlgoeExpert | https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/SortedSquaredArray |
-| ⭐ | Tournament Winner | AlgoeExpert | https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/TournamentWinner |
-| ⭐ | Transpose Matrix | AlgoeExpert | https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/TransposeMatrix |
+| ⭐ | Tournament Winner | AlgoExpert | https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/TournamentWinner |
+| ⭐ | Transpose Matrix | AlgoExpert | https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/TransposeMatrix |
+| ⭐ | Find Closest value in BST | AlgoExpert | https://github.com/KarimAly12/CodingQustions/tree/main/AlgoExpert/FindClosestValuseInBST |
 
-
-### IoT projects
-[Smart Planting System](https://github.com/KarimAly12/SmartPlantingSystem
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
