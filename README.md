@@ -27,7 +27,7 @@
 [Device Tracking](https://github.com/KarimAly12/DeviceTracking)
 
 ### IoT projects
-[Smart Planting System](https://github.com/KarimAly12/SmartPlantingSystem
+[Smart Planting System](https://github.com/KarimAly12/SmartPlantingSystem)
 
 
 ### Python projects
