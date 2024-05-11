@@ -1,6 +1,5 @@
 # Karim Aly
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
 <p>I am passionate about programming, particularly in software development and native Android app development. I thoroughly enjoy solving coding questions and challenges.</p>
 
 
