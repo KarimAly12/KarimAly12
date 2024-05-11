@@ -9,7 +9,7 @@
 
 <div align="left">
 
-<p align="left"> <a href="https://www.linkedin.com/in/karim-aly-3ba8b5195" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="android" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.linkedin.com/in/karim-aly-3ba8b5195" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="android" width="35" height="35"/> </a>
 
 ###
 
