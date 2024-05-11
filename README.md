@@ -83,8 +83,7 @@
 
 ## Statistics
 
-<h4 align="left">Languages:</h4>
-<img src="https://raw.githubusercontent.com/KarimAly12/KarimAly12/output/snake.svg" alt="Snake animation" />
+
 
 
 <div align="center">
