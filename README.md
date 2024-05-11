@@ -66,7 +66,6 @@
 <details>
   <summary>Android Projects</summary>
   
-  ### Heading
   1. [Android Algorithm Visualiser](https://github.com/KarimAly12/AndroidAlgoVisulaiser)
   2. [Quran Application](https://github.com/KarimAly12/Quran_App)
   3. [Device Tracking](https://github.com/KarimAly12/DeviceTracking)
@@ -77,7 +76,7 @@
 <details>
   <summary>IoT projects</summary>
   
-  ### Heading
+
   1. [Smart Planting System](https://github.com/KarimAly12/SmartPlantingSystem)
 
      
@@ -86,7 +85,7 @@
 <details>
   <summary>Python projects</summary>
   
-  ### Heading
+
   1.[Pathfinding Algorihtms Visualiser](https://github.com/KarimAly12/Pathfinding_Visualiser)
   2.[Coding Questions](https://github.com/KarimAly12/CodingQuestions/tree/main)
 
