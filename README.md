@@ -2,7 +2,6 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 <p>I am passionate about programming, particularly in software development and native Android app development. I thoroughly enjoy solving coding questions and challenges.</p>
 
--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">Connect with me</h3>
 
@@ -13,6 +12,10 @@
 <p align="left"> <a href="https://www.linkedin.com/in/karim-aly-3ba8b5195" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="android" width="40" height="40"/> </a>
 
 ###
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
