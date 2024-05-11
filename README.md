@@ -86,8 +86,8 @@
   <summary>Python projects</summary>
   
 
-  1.[Pathfinding Algorihtms Visualiser](https://github.com/KarimAly12/Pathfinding_Visualiser)
-  2.[Coding Questions](https://github.com/KarimAly12/CodingQuestions/tree/main)
+  1. [Pathfinding Algorihtms Visualiser](https://github.com/KarimAly12/Pathfinding_Visualiser)
+  2. [Coding Questions](https://github.com/KarimAly12/CodingQuestions/tree/main)
 
      
 </details>
