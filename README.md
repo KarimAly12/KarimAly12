@@ -3,8 +3,7 @@
 <p>I am passionate about programming, particularly in software development and native Android app development. I thoroughly enjoy solving coding questions and challenges.</p>
 
 
-<h3 align="left">Connect with me</h3>
-
+<h3 align="left">Connect with me:</h3>
 ###
 
 <div align="left">
