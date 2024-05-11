@@ -1,7 +1,7 @@
 
 # Karim Aly
 
-<p>I am passionate about programming, particularly in software development and native Android app development. I thoroughly enjoy solving coding questions and challenges.</p>
+<h4>I am passionate about programming, particularly in software development and native Android app development. I thoroughly enjoy solving coding questions and challenges.</h4>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -101,6 +101,11 @@
 
 
 </div>
+
+## Let's colab 🚀
+
+🌟 I'm eager to collaborate on exciting projects and ideas. If you have similar interests or a project you'd like to work on together, don't hesitate to contact me through the social media links provided below!
+
 
 
 
