@@ -60,23 +60,39 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
 ## Pojects
 
-### Android projects
-[Android Algorithm Visualiser](https://github.com/KarimAly12/AndroidAlgoVisulaiser)
+<details>
+  <summary>Android Projects</summary>
+  
+  ### Heading
+  1. [Android Algorithm Visualiser](https://github.com/KarimAly12/AndroidAlgoVisulaiser)
+  2. [Quran Application](https://github.com/KarimAly12/Quran_App)
+  3. [Device Tracking](https://github.com/KarimAly12/DeviceTracking)
+     
+</details>
 
-[Quran Application](https://github.com/KarimAly12/Quran_App)
 
-[Device Tracking](https://github.com/KarimAly12/DeviceTracking)
+<details>
+  <summary>IoT projects</summary>
+  
+  ### Heading
+  1. [Smart Planting System](https://github.com/KarimAly12/SmartPlantingSystem)
 
-### IoT projects
-[Smart Planting System](https://github.com/KarimAly12/SmartPlantingSystem)
+     
+</details>
 
+<details>
+  <summary>Python projects</summary>
+  
+  ### Heading
+  1.[Pathfinding Algorihtms Visualiser](https://github.com/KarimAly12/Pathfinding_Visualiser)
+  2.[Coding Questions](https://github.com/KarimAly12/CodingQuestions/tree/main)
 
-### Python projects
-[Pathfinding Algorihtms Visualiser](https://github.com/KarimAly12/Pathfinding_Visualiser)
+     
+</details>
 
-[Coding Questions](https://github.com/KarimAly12/CodingQuestions/tree/main)
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
