@@ -108,7 +108,7 @@
 
 ## Let's colab 🚀
 
-🌟 I'm eager to collaborate on exciting projects and ideas. If you have similar interests or a project you'd like to work on together, don't hesitate to contact me through the social media links provided below!
+🌟 I'm eager to collaborate on exciting projects and ideas. If you have similar interests or a project you'd like to work on together, don't hesitate to contact me through the social media links provided above!
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
