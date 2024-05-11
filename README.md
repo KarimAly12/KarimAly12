@@ -56,7 +56,7 @@
 </div>
 
 
-## Some of my best awesome Pojects
+## Some of my best awesome projects
 
 <details>
   <summary>Android Projects</summary>
