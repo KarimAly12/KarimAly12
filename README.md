@@ -3,7 +3,7 @@
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Karim+Aly" alt="Karim Aly" />
-    </h1>
+</h1>
 
 <h4>I am passionate about programming, particularly in software development and native Android app development. I thoroughly enjoy solving coding questions and challenges.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimaly&label=Profile%20views&color=0e75b6&style=flat" alt="karimaly" /> </p>
