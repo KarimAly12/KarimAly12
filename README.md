@@ -15,7 +15,6 @@
 ###
 
 
-- 🔭 I’m currently working on [Device Tracking](https://github.com/KarimAly12/DeviceTracking)
 
 
 <h4 align="left">Languages:</h4>
