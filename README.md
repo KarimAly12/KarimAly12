@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Karim</h1>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Karem+Saad!" alt="Karem Saad" /></a>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Karem+Saad!" alt="Karem Saad" />
     </h1>
 
 <h4>I am passionate about programming, particularly in software development and native Android app development. I thoroughly enjoy solving coding questions and challenges.</h4>
