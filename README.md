@@ -9,7 +9,7 @@
 ###
 
 <div align="left">
-<a href="www.linkedin.com/in/karim-aly-3ba8b5195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karimosamakk@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/karim-aly-3ba8b5195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/karim-aly-3ba8b5195" height="30" width="40" /></a>
 </div>
 
 ###
@@ -17,7 +17,7 @@
 
 
 
-<h4 align="left">Languages:</h4>
+<h3 align="left">Languages:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -39,7 +39,7 @@
 </div>
 
 ###
-<h4 align="left">Tools:</h4>
+<h3 align="left">Tools:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
