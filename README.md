@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/KarimAly12/KarimAly12/master/intro.gif" alt="👋 Hi there! I'm Karim" title="👋 Hi there! I'm Karim"/>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 <p>I am passionate about programming, particularly in software development and native Android app development. I thoroughly enjoy solving coding questions and challenges.</p>
