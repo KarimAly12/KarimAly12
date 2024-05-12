@@ -68,7 +68,7 @@
 <details>
   <summary>Android Projects</summary>
   
-  1. [Android Algorithm Visualiser](https://github.com/KarimAly12/AndroidAlgoVisulaiser)
+  1. [Android Pathfinding Visualiser](https://github.com/KarimAly12/AndroidPathfindingVisualiser)
   2. [Quran Application](https://github.com/KarimAly12/Quran_App)
   3. [Device Tracking](https://github.com/KarimAly12/DeviceTracking)
      
