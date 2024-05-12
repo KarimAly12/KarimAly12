@@ -70,7 +70,7 @@
   
   1. [Android Pathfinding Visualiser](https://github.com/KarimAly12/AndroidPathfindingVisualiser)
   2. [Quran Application](https://github.com/KarimAly12/Quran_App)
-  3. [Device Tracking](https://github.com/KarimAly12/DeviceTracking)
+  3. [Android Tracking App](https://github.com/KarimAly12/ParentTrackingChildApp)
      
 </details>
 
